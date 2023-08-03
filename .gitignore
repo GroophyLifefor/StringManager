@@ -3,6 +3,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# My custom
+.idea/
+StringManager/bin
+StringManager/obj
+StringManager.Test/bin
+StringManager.Test/obj
+
 # User-specific files
 *.rsuser
 *.suo
