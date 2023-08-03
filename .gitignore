@@ -9,6 +9,7 @@ StringManager/bin
 StringManager/obj
 StringManager.Test/bin
 StringManager.Test/obj
+nuget.config
 
 # User-specific files
 *.rsuser

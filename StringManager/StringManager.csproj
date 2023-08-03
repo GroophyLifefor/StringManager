@@ -4,6 +4,13 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Authors>Groophy Lifefor</Authors>
+        <PackageProjectUrl>https://github.com/GroophyLifefor/StringManager</PackageProjectUrl>
+        <PackageLicenseUrl>https://opensource.org/license/mit/</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/GroophyLifefor/StringManager</RepositoryUrl>
+        <PackageTags>StringManager</PackageTags>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     </PropertyGroup>
 
 </Project>
