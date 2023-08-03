@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManager", "StringManager\StringManager.csproj", "{E0D1D46A-E476-4859-95CF-75458A2246E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManager.Test", "StringManager.Test\StringManager.Test.csproj", "{D02B6DD8-2DBB-425B-B126-F20B687F05B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0D1D46A-E476-4859-95CF-75458A2246E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D1D46A-E476-4859-95CF-75458A2246E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D1D46A-E476-4859-95CF-75458A2246E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D1D46A-E476-4859-95CF-75458A2246E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D02B6DD8-2DBB-425B-B126-F20B687F05B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02B6DD8-2DBB-425B-B126-F20B687F05B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02B6DD8-2DBB-425B-B126-F20B687F05B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02B6DD8-2DBB-425B-B126-F20B687F05B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

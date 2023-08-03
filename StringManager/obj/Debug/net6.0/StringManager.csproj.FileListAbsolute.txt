@@ -1,0 +1,12 @@
+C:\Users\Groop\Masaüstü\Desktop\Code\Projeler\StringManager\StringManager\bin\Debug\net6.0\StringManager.deps.json
+C:\Users\Groop\Masaüstü\Desktop\Code\Projeler\StringManager\StringManager\bin\Debug\net6.0\StringManager.dll
+C:\Users\Groop\Masaüstü\Desktop\Code\Projeler\StringManager\StringManager\bin\Debug\net6.0\StringManager.pdb
+C:\Users\Groop\Masaüstü\Desktop\Code\Projeler\StringManager\StringManager\obj\Debug\net6.0\StringManager.csproj.AssemblyReference.cache
+C:\Users\Groop\Masaüstü\Desktop\Code\Projeler\StringManager\StringManager\obj\Debug\net6.0\StringManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Groop\Masaüstü\Desktop\Code\Projeler\StringManager\StringManager\obj\Debug\net6.0\StringManager.AssemblyInfoInputs.cache
+C:\Users\Groop\Masaüstü\Desktop\Code\Projeler\StringManager\StringManager\obj\Debug\net6.0\StringManager.AssemblyInfo.cs
+C:\Users\Groop\Masaüstü\Desktop\Code\Projeler\StringManager\StringManager\obj\Debug\net6.0\StringManager.csproj.CoreCompileInputs.cache
+C:\Users\Groop\Masaüstü\Desktop\Code\Projeler\StringManager\StringManager\obj\Debug\net6.0\StringManager.dll
+C:\Users\Groop\Masaüstü\Desktop\Code\Projeler\StringManager\StringManager\obj\Debug\net6.0\refint\StringManager.dll
+C:\Users\Groop\Masaüstü\Desktop\Code\Projeler\StringManager\StringManager\obj\Debug\net6.0\StringManager.pdb
+C:\Users\Groop\Masaüstü\Desktop\Code\Projeler\StringManager\StringManager\obj\Debug\net6.0\ref\StringManager.dll
